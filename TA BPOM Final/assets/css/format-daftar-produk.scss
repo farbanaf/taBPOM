@@ -1,0 +1,1188 @@
+/* screen - format-daftar-produk */
+
+.format-daftar-produk {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  width: 100%;
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 0;
+  }
+}
+
+.format-daftar-produk .nav {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: fixed;
+  top: 0;
+  z-index: 4;
+}
+
+.format-daftar-produk .navlink {
+  background-color: var(--brand--blue);
+  border: 1px none;
+  height: 40px;
+  position: relative;
+}
+
+.format-daftar-produk .border {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 39px;
+}
+
+.format-daftar-produk .flex-row {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  left: 150px;
+  min-width: 1140px;
+  position: absolute;
+  top: 8px;
+}
+
+.format-daftar-produk .menu {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 24px;
+}
+
+.format-daftar-produk .hubungi-kami {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  min-width: 98px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .faq {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  min-width: 28px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .bahasa {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 699px;
+  width: 117px;
+}
+
+.format-daftar-produk .globe {
+  height: 18px;
+  margin-right: 8px;
+  width: 18px;
+}
+
+.format-daftar-produk .place {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 4px;
+  text-align: center;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.format-daftar-produk .chevron-down {
+  height: 16px;
+  margin-right: 2px;
+  width: 16px;
+}
+
+.format-daftar-produk .line-1 {
+  height: 18px;
+  margin-left: 22px;
+  width: 1px;
+}
+
+.format-daftar-produk .sosmed {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 16px;
+  margin-left: 23px;
+}
+
+.format-daftar-produk .social-media {
+  height: 20px;
+  min-width: 20px;
+}
+
+.format-daftar-produk .social-media-1 {
+  border: 1px none;
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.format-daftar-produk .exclude {
+  height: 17px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.format-daftar-produk .exclude-1 {
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 17px;
+}
+
+.format-daftar-produk .navbar {
+  background-color: var(--white);
+  border: 1px none;
+  height: 136px;
+  position: relative;
+}
+
+.format-daftar-produk .logo {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  left: 596px;
+  position: absolute;
+  top: 20px;
+}
+
+.format-daftar-produk .logo-1 {
+  height: 40px;
+  min-width: 40px;
+}
+
+.format-daftar-produk .overlap-group-1 {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.format-daftar-produk .vector {
+  height: 36px;
+  left: 20px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.format-daftar-produk .vector-1 {
+  height: 36px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 27px;
+}
+
+.format-daftar-produk .vector-2 {
+  height: 38px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+
+.format-daftar-produk .title {
+  letter-spacing: 0;
+  line-height: 40.0px;
+  margin-top: -1.00px;
+  min-width: 116px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .title-1 {
+  letter-spacing: 0;
+  line-height: 40.0px;
+  margin-top: -1.00px;
+  min-width: 76px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .overlap-group2 {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+}
+
+.format-daftar-produk .line-9 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+}
+
+.format-daftar-produk .navlink-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.format-daftar-produk .overlap-group1 {
+  height: 56px;
+  position: relative;
+}
+
+.format-daftar-produk .boder-bottom {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 55px;
+}
+
+.format-daftar-produk .frame-193 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  left: 119px;
+  position: absolute;
+  top: 0;
+}
+
+.format-daftar-produk .text-link {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 61px;
+}
+
+.format-daftar-produk .label {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 45px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .text-link-1 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 55px;
+}
+
+.format-daftar-produk .label-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 39px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .text-link-2 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 130px;
+}
+
+.format-daftar-produk .label-2 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 114px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .text-link-3 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 56px;
+  justify-content: space-between;
+  padding: 16px 8px 0px;
+}
+
+.format-daftar-produk .label-3 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  min-width: 107px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .line-13 {
+  align-self: stretch;
+  height: 2px;
+  min-width: 107px;
+}
+
+.format-daftar-produk .text-link-4 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 136px;
+}
+
+.format-daftar-produk .label-4 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 120px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .text-link-5 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 141px;
+}
+
+.format-daftar-produk .label-5 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 125px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .text-link-6 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 78px;
+}
+
+.format-daftar-produk .label-6 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 62px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .text-link-7 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 221px;
+}
+
+.format-daftar-produk .label-7 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 205px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .text-link-8 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 124px;
+}
+
+.format-daftar-produk .label-8 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 108px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .overlap-group4 {
+  height: 198px;
+  margin-right: 2.0px;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 1rem;
+}
+
+.format-daftar-produk .bg {
+  align-items: flex-end;
+  background-color: var(--background);
+  border: 1px none;
+  display: flex;
+  height: 198px;
+  padding: 0.0px 0;
+}
+
+.format-daftar-produk .union {
+  height: 133px;
+  margin-left: 1px;
+  width: 105px;
+}
+
+.format-daftar-produk .union-1 {
+  height: 133px;
+  margin-left: 1229px;
+  width: 105px;
+}
+
+.format-daftar-produk .daftar-produk-bpom {
+  height: 40px;
+  left: 562px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 55px;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .klik-untuk-masuk-ke-halaman-website {
+  color: var(--description);
+  font-weight: 400;
+  height: 24px;
+  left: 580px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 103px;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .container-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-right: 1.0px;
+  margin-top: 55px;
+  z-index: 3;
+}
+
+.format-daftar-produk .row {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 32px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.format-daftar-produk .card-layanan-publik {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 8px;
+  display: flex;
+  height: 116px;
+  min-width: 261px;
+  width: 100%;
+
+  @media screen and (min-width: 720px){
+    & {
+      width: 261px;
+    }
+  }
+}
+
+.format-daftar-produk .frame-165 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 80px;
+  margin-left: 16px;
+  margin-top: 16px;
+  width: 230px;
+}
+
+.format-daftar-produk .based-icons {
+  background-color: var(--light-blue);
+  border: 1px none;
+  border-radius: 100px;
+  display: flex;
+  height: 48px;
+  min-width: 48px;
+}
+
+.format-daftar-produk .pie-chart {
+  height: 24px;
+  margin-left: 12px;
+  margin-top: 12px;
+  width: 24px;
+}
+
+.format-daftar-produk .registrasi-obat {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .globe-1 {
+  height: 24px;
+  margin-left: 12px;
+  margin-top: 12px;
+  width: 24px;
+}
+
+.format-daftar-produk .info {
+  height: 24px;
+  margin-left: 12px;
+  margin-top: 12px;
+  width: 24px;
+}
+
+.format-daftar-produk .alert-triangle {
+  height: 24px;
+  margin-left: 12px;
+  margin-top: 12px;
+  width: 24px;
+}
+
+.format-daftar-produk .minus-circle {
+  height: 24px;
+  margin-left: 12px;
+  margin-top: 12px;
+  width: 24px;
+}
+
+.format-daftar-produk .link-2 {
+  height: 24px;
+  margin-left: 12px;
+  margin-top: 12px;
+  width: 24px;
+}
+
+.format-daftar-produk .footer {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  margin-top: 415px;
+  z-index: 2;
+}
+
+.format-daftar-produk .overlap-group3 {
+  height: 625px;
+  position: relative;
+}
+
+.format-daftar-produk .bg-1 {
+  height: 552px;
+  left: 0;
+  position: absolute;
+  top: 73px;
+}
+
+.format-daftar-produk .nomor-telpon {
+  display: flex;
+  flex-direction: column;
+  height: 198px;
+  left: 443px;
+  position: absolute;
+  top: 299px;
+  width: 261px;
+}
+
+.format-daftar-produk .footer-category {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 32px;
+  min-width: 261px;
+}
+
+.format-daftar-produk .overlap-group {
+  height: 32px;
+  position: relative;
+  width: 261px;
+}
+
+.format-daftar-produk .border-bottom {
+  height: 1px;
+  left: 32px;
+  position: absolute;
+  top: 31px;
+  width: 229px;
+}
+
+.format-daftar-produk .heading {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 261px;
+}
+
+.format-daftar-produk .alamat {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 229px;
+}
+
+.format-daftar-produk .alamat-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .border-bottom-1 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 229px;
+}
+
+.format-daftar-produk .phone {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .list-kontak {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 152px;
+  margin-top: 14.0px;
+}
+
+.format-daftar-produk .text-7 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .list-kontak-item {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .pengaduanyanblikpomgoid {
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .email {
+  display: flex;
+  flex-direction: column;
+  height: 102px;
+  left: 736px;
+  position: absolute;
+  top: 299px;
+  width: 261px;
+}
+
+.format-daftar-produk .mail {
+  border: 1px none;
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.format-daftar-produk .union-2 {
+  height: 18px;
+  left: 1px;
+  position: absolute;
+  top: 3px;
+  width: 22px;
+}
+
+.format-daftar-produk .list-kontak-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 56px;
+  margin-top: 14.0px;
+}
+
+.format-daftar-produk .halobpompomgoid {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .hasil-poling {
+  display: flex;
+  flex-direction: column;
+  height: 198px;
+  left: 1029px;
+  position: absolute;
+  top: 299px;
+  width: 261px;
+}
+
+.format-daftar-produk .star {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .frame-58 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 152px;
+  margin-top: 14.0px;
+  width: 260px;
+}
+
+.format-daftar-produk .x-bintang {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  width: 260px;
+}
+
+.format-daftar-produk .star-1 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-2 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-3 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-4 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-5 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .percent {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .star-6 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-7 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-8 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-9 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-10 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-11 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-12 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-13 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-14 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-15 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-16 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-17 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-18 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-19 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-20 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-21 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-22 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-23 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-24 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .star-25 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .alamat-2 {
+  display: flex;
+  flex-direction: column;
+  height: 96px;
+  left: 150px;
+  position: absolute;
+  top: 299px;
+  width: 263px;
+}
+
+.format-daftar-produk .map-pin {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-daftar-produk .jalan-percetakan-neg {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 16.0px;
+  width: 261px;
+}
+
+.format-daftar-produk .copyright {
+  background-color: var(--black);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 553px;
+}
+
+.format-daftar-produk .line-2 {
+  height: 1px;
+}
+
+.format-daftar-produk .x2021-badan-penga {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 522px;
+  margin-top: 23px;
+  white-space: nowrap;
+  width: 397px;
+}
+
+.format-daftar-produk .polling {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 16px 32px #121a2229;
+  display: flex;
+  height: 179px;
+  left: 150px;
+  min-width: 1140px;
+  position: absolute;
+  top: 0;
+}
+
+.format-daftar-produk .flex-row-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  height: 179px;
+  min-width: 1140px;
+  padding: 24px;
+}
+
+.format-daftar-produk .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 128px;
+  width: 529px;
+}
+
+.format-daftar-produk .heading-2 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  overflow: hidden;
+  width: 529px;
+}
+
+.format-daftar-produk .overlap-group-2 {
+  height: 44px;
+  margin-bottom: 0;
+  position: relative;
+  width: 529px;
+}
+
+.format-daftar-produk .border-bottom-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 529px;
+}
+
+.format-daftar-produk .heading-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.format-daftar-produk .heading-3 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .border-bottom-3 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 265px;
+  object-fit: cover;
+}
+
+.format-daftar-produk .form {
+  align-items: flex-start;
+  border: 1px none;
+  border-radius: 8px;
+  display: flex;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.format-daftar-produk .input {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--border);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 144px 8px 16px;
+}
+
+.format-daftar-produk .masukan-anda-terhadap-website-bpom {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .button {
+  align-items: flex-start;
+  background-color: var(--brandgreen);
+  border: 1px none;
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 16px;
+
+  &:hover {
+    cursor: pointer;
+    background-color: var(--background);
+  }
+}
+
+.format-daftar-produk .kirim {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 33px;
+  min-height: 120px;
+  width: 530px;
+}
+
+.format-daftar-produk .heading-4 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  overflow: hidden;
+  width: 530px;
+}
+
+.format-daftar-produk .overlap-group1-1 {
+  height: 44px;
+  margin-bottom: 0;
+  position: relative;
+  width: 530px;
+}
+
+.format-daftar-produk .border-bottom-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 530px;
+}
+
+.format-daftar-produk .heading-5 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-daftar-produk .border-bottom-5 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 342px;
+  object-fit: cover;
+}
+
+.format-daftar-produk .x1-bintang {
+  height: 32px;
+  margin-left: 1px;
+  margin-top: 32px;
+  width: 529px;
+}

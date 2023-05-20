@@ -1,0 +1,1187 @@
+/* screen - format-transform-perkembangan */
+
+.format-transform-perkembangan {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.format-transform-perkembangan .nav {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: fixed;
+  top: 0;
+  z-index: 4;
+}
+
+.format-transform-perkembangan .navlink {
+  background-color: var(--brand--blue);
+  border: 1px none;
+  height: 40px;
+  min-width: 1440px;
+  position: relative;
+}
+
+.format-transform-perkembangan .border {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 39px;
+  width: 1440px;
+}
+
+.format-transform-perkembangan .flex-row {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  left: 150px;
+  min-width: 1140px;
+  position: absolute;
+  top: 8px;
+}
+
+.format-transform-perkembangan .menu {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 24px;
+}
+
+.format-transform-perkembangan .hubungi-kami {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  min-width: 98px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .faq {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  min-width: 28px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .bahasa {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 699px;
+  width: 117px;
+}
+
+.format-transform-perkembangan .globe-1 {
+  height: 18px;
+  margin-right: 8px;
+  width: 18px;
+}
+
+.format-transform-perkembangan .place {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 4px;
+  text-align: center;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.format-transform-perkembangan .chevron-down {
+  height: 16px;
+  margin-right: 2px;
+  width: 16px;
+}
+
+.format-transform-perkembangan .line-1 {
+  height: 18px;
+  margin-left: 22px;
+  width: 1px;
+}
+
+.format-transform-perkembangan .sosmed {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 16px;
+  margin-left: 23px;
+}
+
+.format-transform-perkembangan .social-media {
+  height: 20px;
+  min-width: 20px;
+}
+
+.format-transform-perkembangan .social-media-1 {
+  border: 1px none;
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.format-transform-perkembangan .exclude {
+  height: 17px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.format-transform-perkembangan .exclude-1 {
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 17px;
+}
+
+.format-transform-perkembangan .navbar {
+  background-color: var(--white);
+  border: 1px none;
+  height: 136px;
+  min-width: 1440px;
+  position: relative;
+}
+
+.format-transform-perkembangan .logo {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  left: 596px;
+  position: absolute;
+  top: 20px;
+}
+
+.format-transform-perkembangan .logo-1 {
+  height: 40px;
+  min-width: 40px;
+}
+
+.format-transform-perkembangan .overlap-group-1 {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.format-transform-perkembangan .vector {
+  height: 36px;
+  left: 20px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.format-transform-perkembangan .vector-1 {
+  height: 36px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 27px;
+}
+
+.format-transform-perkembangan .vector-2 {
+  height: 38px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.format-transform-perkembangan .container {
+  border: 1.25px none;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.format-transform-perkembangan .title {
+  letter-spacing: 0;
+  line-height: 40.0px;
+  margin-top: -1.00px;
+  min-width: 116px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .title-1 {
+  letter-spacing: 0;
+  line-height: 40.0px;
+  margin-top: -1.00px;
+  min-width: 76px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .overlap-group2 {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+  width: 1440px;
+}
+
+.format-transform-perkembangan .line-9 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1440px;
+}
+
+.format-transform-perkembangan .navlink-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.format-transform-perkembangan .overlap-group1 {
+  height: 56px;
+  position: relative;
+  width: 1440px;
+}
+
+.format-transform-perkembangan .boder-bottom {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 55px;
+  width: 1440px;
+}
+
+.format-transform-perkembangan .frame-193 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  left: 118px;
+  position: absolute;
+  top: 0;
+}
+
+.format-transform-perkembangan .text-link {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 61px;
+}
+
+.format-transform-perkembangan .label {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 45px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .text-link-1 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 55px;
+}
+
+.format-transform-perkembangan .label-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 39px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .text-link-2 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 61px;
+}
+
+.format-transform-perkembangan .text-link-3 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 130px;
+}
+
+.format-transform-perkembangan .label-2 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 114px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .text-link-4 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 121px;
+}
+
+.format-transform-perkembangan .label-3 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 105px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .text-link-5 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 136px;
+}
+
+.format-transform-perkembangan .label-4 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 120px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .text-link-6 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 141px;
+}
+
+.format-transform-perkembangan .label-5 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 125px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .text-link-7 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 78px;
+}
+
+.format-transform-perkembangan .label-6 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 62px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .text-link-8 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 56px;
+  justify-content: space-between;
+  padding: 16px 8px 0px;
+}
+
+.format-transform-perkembangan .label-7 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  min-width: 208px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .line-13 {
+  align-self: stretch;
+  height: 2px;
+  min-width: 208px;
+}
+
+.format-transform-perkembangan .text-link-9 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 124px;
+}
+
+.format-transform-perkembangan .label-8 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 108px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .overlap-group4 {
+  height: 198px;
+  margin-right: 2.0px;
+  margin-top: 176px;
+  position: relative;
+  width: 1440px;
+  z-index: 1;
+}
+
+.format-transform-perkembangan .bg {
+  align-items: flex-end;
+  background-color: var(--background);
+  border: 1px none;
+  display: flex;
+  height: 198px;
+  left: 0;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.format-transform-perkembangan .union {
+  height: 133px;
+  margin-left: 1px;
+  width: 105px;
+}
+
+.format-transform-perkembangan .union-1 {
+  height: 133px;
+  margin-left: 1229px;
+  width: 105px;
+}
+
+.format-transform-perkembangan .transformasi-kelembagaan {
+  color: var(--description);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  height: 40px;
+  left: 510px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 55px;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .klik-untuk-masuk-ke-halaman-website {
+  color: var(--description);
+  font-weight: 400;
+  height: 24px;
+  left: 580px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 103px;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .row-1 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 32px;
+  margin-right: 2.0px;
+  margin-top: 56px;
+  width: 750px;
+  z-index: 3;
+}
+
+.format-transform-perkembangan .card-layanan-publik {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 8px;
+  display: flex;
+  flex: 1;
+  height: 116px;
+  min-width: 359px;
+}
+
+.format-transform-perkembangan .frame-165 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 80px;
+  margin-left: 16px;
+  margin-top: 16px;
+  width: 230px;
+}
+
+.format-transform-perkembangan .based-icons {
+  background-color: var(--light-blue);
+  border: 1px none;
+  border-radius: 100px;
+  display: flex;
+  height: 48px;
+  min-width: 48px;
+}
+
+.format-transform-perkembangan .globe {
+  height: 24px;
+  margin-left: 12px;
+  margin-top: 12px;
+  width: 24px;
+}
+
+.format-transform-perkembangan .registrasi-obat {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .footer {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  margin-top: 551px;
+  min-width: 1440px;
+  z-index: 2;
+}
+
+.format-transform-perkembangan .overlap-group3 {
+  height: 625px;
+  position: relative;
+  width: 1440px;
+}
+
+.format-transform-perkembangan .bg-1 {
+  height: 552px;
+  left: 0;
+  position: absolute;
+  top: 73px;
+  width: 1440px;
+}
+
+.format-transform-perkembangan .nomor-telpon {
+  display: flex;
+  flex-direction: column;
+  height: 198px;
+  left: 443px;
+  position: absolute;
+  top: 299px;
+  width: 261px;
+}
+
+.format-transform-perkembangan .footer-category {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 32px;
+  min-width: 261px;
+}
+
+.format-transform-perkembangan .overlap-group {
+  height: 32px;
+  position: relative;
+  width: 261px;
+}
+
+.format-transform-perkembangan .border-bottom {
+  height: 1px;
+  left: 32px;
+  position: absolute;
+  top: 31px;
+  width: 229px;
+}
+
+.format-transform-perkembangan .heading {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 261px;
+}
+
+.format-transform-perkembangan .alamat {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 229px;
+}
+
+.format-transform-perkembangan .alamat-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .border-bottom-1 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 229px;
+}
+
+.format-transform-perkembangan .phone {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .list-kontak {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 152px;
+  margin-top: 14.0px;
+}
+
+.format-transform-perkembangan .text-11 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .list-kontak-item {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .pengaduanyanblikpomgoid {
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .email {
+  display: flex;
+  flex-direction: column;
+  height: 102px;
+  left: 736px;
+  position: absolute;
+  top: 299px;
+  width: 261px;
+}
+
+.format-transform-perkembangan .mail {
+  border: 1px none;
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.format-transform-perkembangan .union-2 {
+  height: 18px;
+  left: 1px;
+  position: absolute;
+  top: 3px;
+  width: 22px;
+}
+
+.format-transform-perkembangan .list-kontak-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 56px;
+  margin-top: 14.0px;
+}
+
+.format-transform-perkembangan .halobpompomgoid {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .hasil-poling {
+  display: flex;
+  flex-direction: column;
+  height: 198px;
+  left: 1029px;
+  position: absolute;
+  top: 299px;
+  width: 261px;
+}
+
+.format-transform-perkembangan .star-1 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .frame-58 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 152px;
+  margin-top: 14.0px;
+  width: 260px;
+}
+
+.format-transform-perkembangan .x-bintang {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  width: 260px;
+}
+
+.format-transform-perkembangan .star-2 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-3 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-4 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-5 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-6 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .percent {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .star-7 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-8 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-9 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-10 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-11 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-12 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-13 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-14 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-15 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-16 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-17 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-18 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-19 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-20 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-21 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-22 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-23 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-24 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-25 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .star-26 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .alamat-2 {
+  display: flex;
+  flex-direction: column;
+  height: 96px;
+  left: 150px;
+  position: absolute;
+  top: 299px;
+  width: 263px;
+}
+
+.format-transform-perkembangan .map-pin {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-transform-perkembangan .jalan-percetakan-neg {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 16.0px;
+  width: 261px;
+}
+
+.format-transform-perkembangan .polling {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 16px 32px #121a2229;
+  display: flex;
+  height: 179px;
+  left: 150px;
+  min-width: 1140px;
+  position: absolute;
+  top: 0;
+}
+
+.format-transform-perkembangan .flex-row-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  height: 179px;
+  min-width: 1140px;
+  padding: 24px;
+}
+
+.format-transform-perkembangan .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 128px;
+  width: 529px;
+}
+
+.format-transform-perkembangan .heading-2 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  overflow: hidden;
+  width: 529px;
+}
+
+.format-transform-perkembangan .overlap-group-2 {
+  height: 44px;
+  margin-bottom: 0;
+  position: relative;
+  width: 529px;
+}
+
+.format-transform-perkembangan .border-bottom-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 529px;
+}
+
+.format-transform-perkembangan .heading-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.format-transform-perkembangan .heading-3 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .border-bottom-3 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 265px;
+  object-fit: cover;
+}
+
+.format-transform-perkembangan .form {
+  align-items: flex-start;
+  border: 1px none;
+  border-radius: 8px;
+  display: flex;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.format-transform-perkembangan .input {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--border);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 144px 8px 16px;
+}
+
+.format-transform-perkembangan .masukan-anda-terhadap-website-bpom {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .button {
+  align-items: flex-start;
+  background-color: var(--brandgreen);
+  border: 1px none;
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 16px;
+
+  &:hover {
+    cursor: pointer;
+    background-color: var(--background);
+  }
+}
+
+.format-transform-perkembangan .kirim {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 33px;
+  min-height: 120px;
+  width: 530px;
+}
+
+.format-transform-perkembangan .heading-4 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  overflow: hidden;
+  width: 530px;
+}
+
+.format-transform-perkembangan .overlap-group1-1 {
+  height: 44px;
+  margin-bottom: 0;
+  position: relative;
+  width: 530px;
+}
+
+.format-transform-perkembangan .border-bottom-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 530px;
+}
+
+.format-transform-perkembangan .heading-5 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .border-bottom-5 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 342px;
+  object-fit: cover;
+}
+
+.format-transform-perkembangan .x1-bintang {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 16px;
+  margin-left: 1px;
+  margin-top: 32px;
+  width: 529px;
+}
+
+.format-transform-perkembangan .beri-kami-rating {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  min-width: 115px;
+  white-space: nowrap;
+}
+
+.format-transform-perkembangan .star {
+  height: 32px;
+  min-width: 32px;
+}
+
+.format-transform-perkembangan .copyright {
+  background-color: var(--black);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 553px;
+  width: 1440px;
+}
+
+.format-transform-perkembangan .line-2 {
+  height: 1px;
+  width: 1440px;
+}
+
+.format-transform-perkembangan .x2021-badan-penga {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 522px;
+  margin-top: 23px;
+  white-space: nowrap;
+  width: 397px;
+}

@@ -1,0 +1,1459 @@
+/* screen - format-isi-artikel */
+
+.format-isi-artikel {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+}
+
+.format-isi-artikel .navlink {
+  align-items: center;
+  background-color: var(--brand--blue);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  width: 1440px;
+}
+
+.format-isi-artikel .flex-row {
+  align-items: center;
+  display: flex;
+  margin-top: 8px;
+  min-width: 1140px;
+}
+
+.format-isi-artikel .menu {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 24px;
+}
+
+.format-isi-artikel .hubungi-kami {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  min-width: 98px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .faq {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  min-width: 28px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .bahasa {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 699px;
+  width: 117px;
+}
+
+.format-isi-artikel .globe {
+  height: 18px;
+  margin-right: 8px;
+  width: 18px;
+}
+
+.format-isi-artikel .place {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 4px;
+  text-align: center;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.format-isi-artikel .chevron-down {
+  height: 16px;
+  margin-right: 2px;
+  width: 16px;
+}
+
+.format-isi-artikel .line-1 {
+  height: 18px;
+  margin-left: 22px;
+  width: 1px;
+}
+
+.format-isi-artikel .sosmed {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 16px;
+  margin-left: 23px;
+}
+
+.format-isi-artikel .social-media {
+  height: 20px;
+  min-width: 20px;
+}
+
+.format-isi-artikel .social-media-1 {
+  border: 1px none;
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.format-isi-artikel .exclude {
+  height: 17px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.format-isi-artikel .exclude-1 {
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 17px;
+}
+
+.format-isi-artikel .border {
+  height: 1px;
+  margin-top: 7px;
+  width: 1440px;
+}
+
+.format-isi-artikel .navbar {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 136px;
+  width: 1440px;
+}
+
+.format-isi-artikel .logo {
+  align-items: flex-start;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 8px;
+  margin-right: 1.0px;
+  margin-top: 20px;
+}
+
+.format-isi-artikel .logo-1 {
+  height: 40px;
+  min-width: 40px;
+}
+
+.format-isi-artikel .overlap-group-2 {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.format-isi-artikel .vector {
+  height: 36px;
+  left: 20px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.format-isi-artikel .vector-1 {
+  height: 36px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 27px;
+}
+
+.format-isi-artikel .vector-2 {
+  height: 38px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.format-isi-artikel .container {
+  border: 1.25px none;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.format-isi-artikel .title {
+  letter-spacing: 0;
+  line-height: 40.0px;
+  margin-top: -1.00px;
+  min-width: 116px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .title-1 {
+  letter-spacing: 0;
+  line-height: 40.0px;
+  margin-top: -1.00px;
+  min-width: 76px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .overlap-group4 {
+  height: 56px;
+  margin-top: 20px;
+  position: relative;
+  width: 1440px;
+}
+
+.format-isi-artikel .line-9 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1440px;
+}
+
+.format-isi-artikel .navlink-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.format-isi-artikel .overlap-group1 {
+  height: 56px;
+  position: relative;
+  width: 1440px;
+}
+
+.format-isi-artikel .boder-bottom {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 55px;
+  width: 1440px;
+}
+
+.format-isi-artikel .frame-193 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  left: 120px;
+  position: absolute;
+  top: 0;
+}
+
+.format-isi-artikel .text-link {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 61px;
+}
+
+.format-isi-artikel .label {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 45px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .text-link-1 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 55px;
+}
+
+.format-isi-artikel .label-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 39px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .text-link-2 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 130px;
+}
+
+.format-isi-artikel .label-2 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 114px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .text-link-3 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 121px;
+}
+
+.format-isi-artikel .label-3 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 105px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .text-link-4 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 136px;
+}
+
+.format-isi-artikel .label-4 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 120px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .text-link-5 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 141px;
+}
+
+.format-isi-artikel .label-5 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 125px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .text-link-6 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 78px;
+}
+
+.format-isi-artikel .label-6 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 62px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .text-link-7 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 221px;
+}
+
+.format-isi-artikel .label-7 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 205px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .text-link-8 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 124px;
+}
+
+.format-isi-artikel .label-8 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 108px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 0;
+  margin-top: 40px;
+  min-width: 1140px;
+}
+
+.format-isi-artikel .overlap-group6 {
+  height: 1815px;
+  position: relative;
+  width: 961px;
+}
+
+.format-isi-artikel .group-65 {
+  display: flex;
+  flex-direction: column;
+  height: 1815px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 961px;
+}
+
+.format-isi-artikel .breadcurmb {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  height: 18px;
+  width: 945px;
+}
+
+.format-isi-artikel .halaman-halaman-halaman {
+  color: var(--description);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: -1.00px;
+}
+
+.format-isi-artikel .badan-pom-pastikan-k {
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 80px;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: 58px;
+  width: 945px;
+}
+
+.format-isi-artikel .pexels-artem-podrez-5878514-1 {
+  height: 379px;
+  margin-top: 32px;
+  object-fit: cover;
+  width: 945px;
+}
+
+.format-isi-artikel .sebagaimana-yang-dip {
+  color: var(--ebony-clay);
+  font-weight: 400;
+  height: 168px;
+  line-height: 28px;
+  margin-top: 40px;
+  text-align: justify;
+  width: 945px;
+}
+
+.format-isi-artikel .group-65-item {
+  color: var(--ebony-clay);
+  font-weight: 400;
+  height: 112px;
+  line-height: 28px;
+  margin-top: 52px;
+  text-align: justify;
+  width: 945px;
+}
+
+.format-isi-artikel .group-65-item-1 {
+  color: var(--ebony-clay);
+  font-weight: 400;
+  height: 140px;
+  line-height: 28px;
+  margin-top: 52px;
+  text-align: justify;
+  width: 945px;
+}
+
+.format-isi-artikel .hingga-saat-ini-da {
+  color: var(--ebony-clay);
+  font-weight: 400;
+  height: 84px;
+  line-height: 28px;
+  margin-top: 52px;
+  text-align: justify;
+  width: 945px;
+}
+
+.format-isi-artikel .waktu {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 16px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 945px;
+}
+
+.format-isi-artikel .address-1 {
+  color: var(--in-active);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  min-width: 110px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .x1800-wib {
+  color: var(--in-active);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  min-width: 58px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .dilihat-250-kali {
+  color: var(--in-active);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .frame-215 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  margin-left: 16px;
+}
+
+.format-isi-artikel .heading-2 {
+  border: 1px none;
+  height: 56px;
+  min-width: 163px;
+  overflow: hidden;
+}
+
+.format-isi-artikel .overlap-group-3 {
+  height: 44px;
+  position: relative;
+  top: 12px;
+  width: 163px;
+}
+
+.format-isi-artikel .border-bottom-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 163px;
+}
+
+.format-isi-artikel .heading {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.format-isi-artikel .heading-3 {
+  color: var(--description);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .border-bottom-3 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 125px;
+  object-fit: cover;
+}
+
+.format-isi-artikel .group-7 {
+  height: 40px;
+  margin-right: -2.00px;
+  min-width: 165px;
+}
+
+.format-isi-artikel .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--border);
+  border-radius: 8px;
+  display: flex;
+  height: 40px;
+  min-width: 163px;
+  padding: 3px 7px;
+}
+
+.format-isi-artikel .social-media-2 {
+  align-self: center;
+  height: 24px;
+  margin-bottom: 2.0px;
+  width: 24px;
+}
+
+.format-isi-artikel .facebook {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 8px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .social-media-3 {
+  align-items: flex-end;
+  align-self: center;
+  border: 1px none;
+  display: flex;
+  height: 24px;
+  margin-bottom: 2.0px;
+  padding: 2.0px 2.0px;
+  width: 24px;
+}
+
+.format-isi-artikel .exclude-2 {
+  height: 20px;
+  width: 20px;
+}
+
+.format-isi-artikel .instagram {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 8px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .twitter {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 8px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .group-64 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 186px;
+  min-width: 1140px;
+}
+
+.format-isi-artikel .overlap-group5 {
+  height: 290px;
+  position: relative;
+  width: 1140px;
+}
+
+.format-isi-artikel .berita-aktual {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 290px;
+  position: absolute;
+  top: 0;
+  width: 1140px;
+}
+
+.format-isi-artikel .heading-4 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  overflow: hidden;
+  width: 1140px;
+}
+
+.format-isi-artikel .overlap-group-4 {
+  height: 44px;
+  margin-bottom: 0;
+  position: relative;
+  width: 1140px;
+}
+
+.format-isi-artikel .border-bottom-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 1140px;
+}
+
+.format-isi-artikel .heading-5 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .border-bottom-5 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 139px;
+  object-fit: cover;
+}
+
+.format-isi-artikel .card-columns-container {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 24px;
+  min-width: 1140px;
+}
+
+.format-isi-artikel .card-3-columns-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 210px;
+}
+
+.format-isi-artikel .gambar {
+  align-self: stretch;
+  flex: 1;
+  height: 130px;
+  min-width: 261px;
+  object-fit: cover;
+}
+
+.format-isi-artikel .frame-143 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+}
+
+.format-isi-artikel .badan-pom-tanggap-covid-2019 {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  width: 261px;
+}
+
+.format-isi-artikel .date-and-time {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+}
+
+.format-isi-artikel .address {
+  color: var(--in-active);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  min-width: 68px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .x1700-wib {
+  color: var(--in-active);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .card-3-columns {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 210px;
+  margin-left: 32px;
+}
+
+.format-isi-artikel .x1700-wib-1 {
+  color: var(--in-active);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .x1700-wib-2 {
+  color: var(--in-active);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .x1700-wib-3 {
+  color: var(--in-active);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .arrow-right {
+  height: 24px;
+  left: 1116px;
+  position: absolute;
+  top: 16px;
+  width: 24px;
+}
+
+.format-isi-artikel .arrow-left {
+  height: 24px;
+  left: 1083px;
+  position: absolute;
+  top: 16px;
+  width: 24px;
+}
+
+.format-isi-artikel .footer {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  margin-top: 140px;
+  min-width: 1440px;
+}
+
+.format-isi-artikel .overlap-group3 {
+  height: 625px;
+  position: relative;
+  width: 1440px;
+}
+
+.format-isi-artikel .bg {
+  height: 552px;
+  left: 0;
+  position: absolute;
+  top: 73px;
+  width: 1440px;
+}
+
+.format-isi-artikel .nomor-telpon {
+  display: flex;
+  flex-direction: column;
+  height: 198px;
+  left: 443px;
+  position: absolute;
+  top: 299px;
+  width: 261px;
+}
+
+.format-isi-artikel .footer-category {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 32px;
+  min-width: 261px;
+}
+
+.format-isi-artikel .overlap-group-1 {
+  height: 32px;
+  position: relative;
+  width: 261px;
+}
+
+.format-isi-artikel .border-bottom {
+  height: 1px;
+  left: 32px;
+  position: absolute;
+  top: 31px;
+  width: 229px;
+}
+
+.format-isi-artikel .heading-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 261px;
+}
+
+.format-isi-artikel .alamat {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 229px;
+}
+
+.format-isi-artikel .alamat-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .border-bottom-1 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 229px;
+}
+
+.format-isi-artikel .phone {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .list-kontak {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 152px;
+  margin-top: 14.0px;
+}
+
+.format-isi-artikel .text-1 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .list-kontak-item {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .pengaduanyanblikpomgoid {
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .email {
+  display: flex;
+  flex-direction: column;
+  height: 102px;
+  left: 736px;
+  position: absolute;
+  top: 299px;
+  width: 261px;
+}
+
+.format-isi-artikel .mail {
+  border: 1px none;
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.format-isi-artikel .union {
+  height: 18px;
+  left: 1px;
+  position: absolute;
+  top: 3px;
+  width: 22px;
+}
+
+.format-isi-artikel .list-kontak-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 56px;
+  margin-top: 14.0px;
+}
+
+.format-isi-artikel .halobpompomgoid {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .hasil-poling {
+  display: flex;
+  flex-direction: column;
+  height: 198px;
+  left: 1029px;
+  position: absolute;
+  top: 299px;
+  width: 261px;
+}
+
+.format-isi-artikel .star-1 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .frame-58 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 152px;
+  margin-top: 14.0px;
+  width: 260px;
+}
+
+.format-isi-artikel .x-bintang {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  width: 260px;
+}
+
+.format-isi-artikel .star-2 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-3 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-4 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-5 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-6 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .percent {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .star-7 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-8 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-9 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-10 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-11 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-12 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-13 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-14 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-15 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-16 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-17 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-18 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-19 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-20 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-21 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-22 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-23 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-24 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-25 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .star-26 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .alamat-2 {
+  display: flex;
+  flex-direction: column;
+  height: 96px;
+  left: 150px;
+  position: absolute;
+  top: 299px;
+  width: 263px;
+}
+
+.format-isi-artikel .map-pin {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-isi-artikel .jalan-percetakan-neg {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 16.0px;
+  width: 261px;
+}
+
+.format-isi-artikel .copyright {
+  background-color: var(--black);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 553px;
+  width: 1440px;
+}
+
+.format-isi-artikel .line-2 {
+  height: 1px;
+  width: 1440px;
+}
+
+.format-isi-artikel .x2021-badan-penga {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 522px;
+  margin-top: 23px;
+  white-space: nowrap;
+  width: 397px;
+}
+
+.format-isi-artikel .polling {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 16px 32px #121a2229;
+  display: flex;
+  height: 179px;
+  left: 150px;
+  min-width: 1140px;
+  position: absolute;
+  top: 0;
+}
+
+.format-isi-artikel .flex-row-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  height: 179px;
+  min-width: 1140px;
+  padding: 24px;
+}
+
+.format-isi-artikel .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 128px;
+  width: 529px;
+}
+
+.format-isi-artikel .heading-6 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  overflow: hidden;
+  width: 529px;
+}
+
+.format-isi-artikel .overlap-group-5 {
+  height: 44px;
+  margin-bottom: 0;
+  position: relative;
+  width: 529px;
+}
+
+.format-isi-artikel .border-bottom-6 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 529px;
+}
+
+.format-isi-artikel .heading-7 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .border-bottom-7 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 265px;
+  object-fit: cover;
+}
+
+.format-isi-artikel .form {
+  align-items: flex-start;
+  border: 1px none;
+  border-radius: 8px;
+  display: flex;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.format-isi-artikel .input {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--border);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 144px 8px 16px;
+}
+
+.format-isi-artikel .masukan-anda-terhadap-website-bpom {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .button {
+  align-items: flex-start;
+  background-color: var(--brandgreen);
+  border: 1px none;
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 16px;
+
+  &:hover {
+    cursor: pointer;
+    background-color: var(--background);
+  }
+}
+
+.format-isi-artikel .kirim {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 33px;
+  min-height: 120px;
+  width: 530px;
+}
+
+.format-isi-artikel .heading-8 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  overflow: hidden;
+  width: 530px;
+}
+
+.format-isi-artikel .overlap-group1-1 {
+  height: 44px;
+  margin-bottom: 0;
+  position: relative;
+  width: 530px;
+}
+
+.format-isi-artikel .border-bottom-8 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 530px;
+}
+
+.format-isi-artikel .heading-9 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .border-bottom-9 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 342px;
+  object-fit: cover;
+}
+
+.format-isi-artikel .x1-bintang {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 16px;
+  margin-left: 1px;
+  margin-top: 32px;
+  width: 529px;
+}
+
+.format-isi-artikel .beri-kami-rating {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  min-width: 115px;
+  white-space: nowrap;
+}
+
+.format-isi-artikel .star {
+  height: 32px;
+  min-width: 32px;
+}

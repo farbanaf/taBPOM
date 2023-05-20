@@ -1,0 +1,1290 @@
+/* screen - format-layanan-publik */
+
+.format-layanan-publik {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+}
+
+.format-layanan-publik .nav {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: fixed;
+  top: 0;
+}
+
+.format-layanan-publik .navlink {
+  background-color: var(--brand--blue);
+  border: 1px none;
+  height: 40px;
+  position: relative;
+}
+
+.format-layanan-publik .border {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 39px;
+}
+
+.format-layanan-publik .flex-row {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  left: 150px;
+  position: absolute;
+  top: 8px;
+}
+
+.format-layanan-publik .menu {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 24px;
+}
+
+.format-layanan-publik .hubungi-kami {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  min-width: 98px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .faq {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  min-width: 28px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .bahasa {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 699px;
+  width: 117px;
+}
+
+.format-layanan-publik .globe {
+  height: 18px;
+  margin-right: 8px;
+  width: 18px;
+}
+
+.format-layanan-publik .place {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 4px;
+  text-align: center;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.format-layanan-publik .chevron-down {
+  height: 16px;
+  margin-right: 2px;
+  width: 16px;
+}
+
+.format-layanan-publik .line-1 {
+  height: 18px;
+  margin-left: 22px;
+  width: 1px;
+}
+
+.format-layanan-publik .sosmed {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 16px;
+  margin-left: 23px;
+}
+
+.format-layanan-publik .social-media {
+  height: 20px;
+  min-width: 20px;
+}
+
+.format-layanan-publik .social-media-1 {
+  border: 1px none;
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.format-layanan-publik .exclude {
+  height: 17px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.format-layanan-publik .exclude-1 {
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 17px;
+}
+
+.format-layanan-publik .navbar {
+  background-color: var(--white);
+  border: 1px none;
+  height: 136px;
+  position: relative;
+}
+
+.format-layanan-publik .logo {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  left: 596px;
+  position: absolute;
+  top: 20px;
+}
+
+.format-layanan-publik .logo-1 {
+  height: 40px;
+  min-width: 40px;
+}
+
+.format-layanan-publik .overlap-group-1 {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.format-layanan-publik .vector {
+  height: 36px;
+  left: 20px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.format-layanan-publik .vector-1 {
+  height: 36px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 27px;
+}
+
+.format-layanan-publik .vector-2 {
+  height: 38px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+// .format-layanan-publik .container {
+//   border: 1.25px none;
+//   height: 40px;
+//   left: 0;
+//   position: absolute;
+//   top: 0;
+//   width: 40px;
+// }
+
+.format-layanan-publik .title {
+  letter-spacing: 0;
+  line-height: 40.0px;
+  margin-top: -1.00px;
+  min-width: 116px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .title-1 {
+  letter-spacing: 0;
+  line-height: 40.0px;
+  margin-top: -1.00px;
+  min-width: 76px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .overlap-group2 {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+}
+
+.format-layanan-publik .line-9 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+}
+
+.format-layanan-publik .navlink-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.format-layanan-publik .overlap-group1 {
+  height: 56px;
+  position: relative;
+}
+
+.format-layanan-publik .boder-bottom {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 55px;
+}
+
+.format-layanan-publik .frame-193 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  left: 120px;
+  position: absolute;
+  top: 0;
+}
+
+.format-layanan-publik .text-link {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 61px;
+}
+
+.format-layanan-publik .label {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 45px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .text-link-1 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 55px;
+}
+
+.format-layanan-publik .label-1 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 39px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .text-link-2 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 56px;
+  justify-content: space-between;
+  padding: 16px 8px 0px;
+}
+
+.format-layanan-publik .label-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  min-width: 115px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .line-13 {
+  align-self: stretch;
+  height: 2px;
+  min-width: 115px;
+}
+
+.format-layanan-publik .text-link-3 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 121px;
+}
+
+.format-layanan-publik .label-3 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 105px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .text-link-4 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 136px;
+}
+
+.format-layanan-publik .label-4 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 120px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .text-link-5 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 141px;
+}
+
+.format-layanan-publik .label-5 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 125px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .text-link-6 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 78px;
+}
+
+.format-layanan-publik .label-6 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 62px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .text-link-7 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 221px;
+}
+
+.format-layanan-publik .label-7 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 205px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .text-link-8 {
+  align-items: center;
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px;
+  width: 124px;
+}
+
+.format-layanan-publik .label-8 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-width: 108px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+flex-wrap: wrap;
+  width: 100%;
+  gap: 1rem;
+}
+
+.format-layanan-publik .layanan-publik {
+  align-items: flex-start;
+  background-color: var(--background);
+  border: 1px none;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 8px;
+  width: 100%;
+
+  @media screen and (min-width: 720px){
+    & {
+      width: 261px;
+      height: 164px;
+    }
+  }
+}
+
+.format-layanan-publik .layanan-publik-item {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+}
+
+.format-layanan-publik .sidebar {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  padding: 8px;
+}
+
+.format-layanan-publik .sidebar-heading {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .line-8 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 245px;
+}
+
+.format-layanan-publik .label-9 {
+  color: var(--brandgreen);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .label-10 {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  flex-wrap: wrap;
+  gap: 1rem;
+
+  @media screen and (min-width: 720px){
+    & {
+      flex: 1;
+    }
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 0;
+  }
+}
+
+.format-layanan-publik .form {
+  height: 48px;
+  width: 100%;
+}
+
+.format-layanan-publik .container-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-left: 1px;
+  margin-top: 32px;
+}
+
+.format-layanan-publik .row {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+
+.format-layanan-publik .card-layanan-publik {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 8px;
+  display: flex;
+  height: 256px;
+  min-width: 261px;
+  width: 100%;
+
+  @media screen and (min-width: 720px){
+    & {
+      width: 261px;
+      height: 164px;
+    }
+  }
+}
+
+.format-layanan-publik .frame-165 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 80px;
+  margin-left: 16px;
+  margin-top: 16px;
+  width: 230px;
+}
+
+.format-layanan-publik .based-icons {
+  background-color: var(--light-blue);
+  border: 1px none;
+  border-radius: 100px;
+  display: flex;
+  height: 48px;
+  min-width: 48px;
+}
+
+.format-layanan-publik .edit-3 {
+  height: 24px;
+  margin-left: 12px;
+  margin-top: 12px;
+  width: 24px;
+}
+
+.format-layanan-publik .registrasi-obat {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .card-layanan-publik-1 {
+  width: 100%;
+
+  @media screen and (min-width: 720px){
+    & {
+      width: 261px;
+      height: 164px;
+    }
+  }
+}
+
+.format-layanan-publik .frame-165-3 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 104px;
+  margin-left: 16px;
+  margin-top: 16px;
+  width: 230px;
+}
+
+.format-layanan-publik .registrasi-obat-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.format-layanan-publik .frame-165-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 122px;
+  margin-left: 16px;
+  margin-top: 16px;
+  width: 230px;
+}
+
+.format-layanan-publik .registrasi-obat-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+}
+
+.format-layanan-publik .frame-165-2 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 100px;
+  margin-left: 16px;
+  margin-top: 16px;
+  width: 230px;
+}
+
+.format-layanan-publik .row-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  gap: 32px;
+}
+
+.format-layanan-publik .frame-165-4 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 78px;
+  margin-left: 16px;
+  margin-top: 16px;
+  width: 230px;
+}
+
+.format-layanan-publik .footer {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  margin-top: 122px;
+}
+
+.format-layanan-publik .overlap-group3 {
+  height: 625px;
+  position: relative;
+}
+
+.format-layanan-publik .bg {
+  height: 552px;
+  left: 0;
+  position: absolute;
+  top: 73px;
+}
+
+.format-layanan-publik .nomor-telpon {
+  display: flex;
+  flex-direction: column;
+  height: 198px;
+  left: 443px;
+  position: absolute;
+  top: 299px;
+  width: 261px;
+}
+
+.format-layanan-publik .footer-category {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 32px;
+  min-width: 261px;
+}
+
+.format-layanan-publik .overlap-group {
+  height: 32px;
+  margin-bottom: 0;
+  position: relative;
+  width: 261px;
+}
+
+.format-layanan-publik .border-bottom {
+  height: 1px;
+  left: 32px;
+  position: absolute;
+  top: 31px;
+  width: 229px;
+}
+
+.format-layanan-publik .heading {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 261px;
+}
+
+.format-layanan-publik .alamat {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 229px;
+}
+
+.format-layanan-publik .alamat-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .border-bottom-1 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 229px;
+}
+
+.format-layanan-publik .phone {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .list-kontak {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 152px;
+  margin-top: 14.0px;
+}
+
+.format-layanan-publik .text-5 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .list-kontak-item {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .pengaduanyanblikpomgoid {
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .email {
+  display: flex;
+  flex-direction: column;
+  height: 102px;
+  left: 736px;
+  position: absolute;
+  top: 299px;
+  width: 261px;
+}
+
+.format-layanan-publik .mail {
+  border: 1px none;
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.format-layanan-publik .union {
+  height: 18px;
+  left: 1px;
+  position: absolute;
+  top: 3px;
+  width: 22px;
+}
+
+.format-layanan-publik .list-kontak-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 56px;
+  margin-top: 14.0px;
+}
+
+.format-layanan-publik .halobpompomgoid {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .hasil-poling {
+  display: flex;
+  flex-direction: column;
+  height: 198px;
+  left: 1029px;
+  position: absolute;
+  top: 299px;
+  width: 261px;
+}
+
+.format-layanan-publik .star-1 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .frame-58 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 152px;
+  margin-top: 14.0px;
+  width: 260px;
+}
+
+.format-layanan-publik .x-bintang {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 8px;
+  width: 260px;
+}
+
+.format-layanan-publik .star-2 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-3 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-4 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-5 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-6 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .percent {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .star-7 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-8 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-9 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-10 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-11 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-12 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-13 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-14 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-15 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-16 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-17 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-18 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-19 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-20 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-21 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-22 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-23 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-24 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-25 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .star-26 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .alamat-2 {
+  display: flex;
+  flex-direction: column;
+  height: 96px;
+  left: 150px;
+  position: absolute;
+  top: 299px;
+  width: 263px;
+}
+
+.format-layanan-publik .map-pin {
+  height: 24px;
+  min-width: 24px;
+}
+
+.format-layanan-publik .jalan-percetakan-neg {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 16.0px;
+  width: 261px;
+}
+
+.format-layanan-publik .copyright {
+  background-color: var(--black);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 553px;
+}
+
+.format-layanan-publik .line-2 {
+  height: 1px;
+}
+
+.format-layanan-publik .x2021-badan-penga {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 522px;
+  margin-top: 23px;
+  white-space: nowrap;
+  width: 397px;
+}
+
+.format-layanan-publik .polling {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 16px 32px #121a2229;
+  display: flex;
+  height: 179px;
+  left: 150px;
+  position: absolute;
+  top: 0;
+}
+
+.format-layanan-publik .flex-row-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  height: 179px;
+  padding: 24px;
+}
+
+.format-layanan-publik .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 128px;
+  width: 529px;
+}
+
+.format-layanan-publik .heading-2 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  overflow: hidden;
+  width: 529px;
+}
+
+.format-layanan-publik .overlap-group-2 {
+  height: 44px;
+  margin-bottom: 0;
+  position: relative;
+  width: 529px;
+}
+
+.format-layanan-publik .border-bottom-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 529px;
+}
+
+.format-layanan-publik .heading-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.format-layanan-publik .heading-3 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .border-bottom-3 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 265px;
+  object-fit: cover;
+}
+
+.format-layanan-publik .form-1 {
+  align-items: flex-start;
+  border: 1px none;
+  border-radius: 8px;
+  display: flex;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.format-layanan-publik .input {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--border);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 144px 8px 16px;
+}
+
+.format-layanan-publik .masukan-anda-terhadap-website-bpom {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .button {
+  align-items: flex-start;
+  background-color: var(--brandgreen);
+  border: 1px none;
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 16px;
+
+  &:hover {
+    cursor: pointer;
+    background-color: var(--background);
+  }
+}
+
+.format-layanan-publik .kirim {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 33px;
+  min-height: 120px;
+  width: 530px;
+}
+
+.format-layanan-publik .heading-4 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  overflow: hidden;
+  width: 530px;
+}
+
+.format-layanan-publik .overlap-group1-1 {
+  height: 44px;
+  margin-bottom: 0;
+  position: relative;
+  width: 530px;
+}
+
+.format-layanan-publik .border-bottom-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 530px;
+}
+
+.format-layanan-publik .heading-5 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .border-bottom-5 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 342px;
+  object-fit: cover;
+}
+
+.format-layanan-publik .x1-bintang {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 16px;
+  margin-left: 1px;
+  margin-top: 32px;
+  width: 529px;
+}
+
+.format-layanan-publik .beri-kami-rating {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  min-width: 115px;
+  white-space: nowrap;
+}
+
+.format-layanan-publik .star {
+  height: 32px;
+  min-width: 32px;
+}

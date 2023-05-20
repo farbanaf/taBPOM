@@ -1,0 +1,72 @@
+[
+    {
+        "type": "OB",
+        "no_reg": "MD 279231318018",
+        "expired": "05-11-2028",
+        "dosage_form": "SIRUP; 120 MG",
+        "publisher": [
+            {
+                "name": "e-Registration Pangan Olahan"
+            },
+            {
+                "name": "Direktorat Registrasi Pangan Olahan"
+            }
+        ],
+        "category": "Makanan & Minuman",
+        "name": "Bahan Tambahan Pangan Campuran Penstabil",
+        "merk": "Pondan",
+        "packaging": "Plastik PET (20g, 40g, 43g)",
+        "merchant": {
+            "name": "CV. KARYA ANUGERAH",
+            "address": "Kab. Sidoarjo, Jawa Timur"
+        },
+        "produced_by": {
+            "name": "CV. KARYA ANUGERAH",
+            "address": "Kab. Sidoarjo, Jawa Timur"
+        },
+        "recall": {
+            "no": "R-PW.01.12.35.352.10.22.1716",
+            "date": "2022-10-20",
+            "level": "Fasilitas pelayanan kefarmasian dan tempat praktik mandiri tenaga kesehatan",
+            "class": "-",
+            "bets": "Seluruh bets",
+            "reason": "Penarikan produk karena teridentifikasi adanya Etilen Glikol (EG) dengan kadar yang melebihi batas aman."
+        }
+    },
+    {
+        "type": "OB",
+        "no_reg": "MD 278113112037",
+        "expired": "04-11-2027",
+        "dosage_form": "SIRUP; 120 MG",
+        "publisher": [
+            {
+                "id": 1,
+                "name": "e-Registration Pangan Olahan"
+            },
+            {
+                "id": 2,
+                "name": "Direktorat Registrasi Pangan Olahan"
+            }
+        ],
+        "category": "Makanan & Minuman",
+        "name": "Bahan Tambahan Pangan Penguat Rasa Mononatrium Glutamat",
+        "merk": "AJI-NO-MOTO",
+        "packaging": "Plastik OPP (90 g)",
+        "merchant": {
+            "name": "PT AJINOMOTO INDONESIA",
+            "address": "Kota Jakarta Utara, DKI Jakarta"
+        },
+        "produced_by": {
+            "name": "PT AJINOMOTO INDONESIA",
+            "address": "Kota Jakarta Utara, DKI Jakarta"
+        },
+        "recall": {
+            "no": "R-PW.01.12.35.352.10.22.1716",
+            "date": "2022-10-20",
+            "level": "Fasilitas pelayanan kefarmasian dan tempat praktik mandiri tenaga kesehatan",
+            "class": "-",
+            "bets": "Seluruh bets",
+            "reason": "Penarikan produk karena teridentifikasi adanya Etilen Glikol (EG) dengan kadar yang melebihi batas aman."
+        }
+    }
+]
